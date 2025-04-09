@@ -1,0 +1,1 @@
+# Implement a parallel version of the merge sort algorithm using multiprocessing. Compare its performance with the single-process version for large lists. 
