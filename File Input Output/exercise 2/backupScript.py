@@ -1,1 +1,0 @@
-# Write a script that creates a backup of a specified directory, copying all files and subdirectories to a new location. Use the os and shutil modules. 
